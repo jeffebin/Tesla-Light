@@ -1,0 +1,8 @@
+You will need
+1- Custom Made PCB, you can find the GERBER file and have it manufactored.  
+2-Three DIODE SCHOTTKY 30V 200MA DO35
+3-An Ultrabirght LED, I used this version: https://www.amazon.com/gp/product/B01CUGA218/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+
+Notes:
+Once the board is soldered, if you cut the diode tails it will be slightly less bright but still work well.  
